@@ -120,7 +120,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "aura"
+      theme: "spectrum"
       mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
