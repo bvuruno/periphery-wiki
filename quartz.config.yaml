@@ -111,11 +111,18 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: googleFonts
+      useThemeFonts: false
+      title: '"Monoton", serif'
+      body: '"Spline Sans Mono", monospaced'
+      header: '"VT323", monospaced'
+      interface: '"Spline Sans Mono", monospaced'
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: "obsiddy-in-terminal"
-      mode: both
+      mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
