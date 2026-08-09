@@ -114,14 +114,13 @@ plugins:
     options:
       useThemeFonts: false
       fontOrigin: googleFonts
-      title: Monoton
+      header: Spline Sans Mono
       body: Spline Sans Mono
-      header: VT323
       interface: Spline Sans Mono
   - source: "@quartz-themes/core"
-    enabled: false
+    enabled: true
     options:
-      theme: "obsiddy-in-terminal"
+      theme: "material-gruvbox"
       mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
