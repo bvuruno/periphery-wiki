@@ -112,12 +112,12 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
     options:
-      fontOrigin: googleFonts
       useThemeFonts: false
-      title: '"Monoton", serif'
-      body: '"Spline Sans Mono", monospaced'
-      header: '"VT323", monospaced'
-      interface: '"Spline Sans Mono", monospaced'
+      fontOrigin: googleFonts
+      title: Monoton
+      body: Spline Sans Mono
+      header: VT323
+      interface: Spline Sans Mono
   - source: "@quartz-themes/core"
     enabled: false
     options:
