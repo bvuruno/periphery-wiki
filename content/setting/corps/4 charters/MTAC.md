@@ -10,8 +10,8 @@ half of them are true believers who took the beltway posting because the old orb
 ## fun fact
 mtac field medics carry two kits. the official one, and the unofficial one stocked with whatever [[Pavel Medical]] can supply them with.
 ## rivalry
-none formal, though [[SEAC]] crews grumble that mtac gets called in for the "easy" trauma work while they handle the toxic cleanup.
+
 ## relationship
-closest thing to a standing partnership with [[Pavel Medical]], mtac field-tests half of what pavel can't get properly licensed, in exchange for supply at cost.
+
 ## see also
 - [[moc corpos]]

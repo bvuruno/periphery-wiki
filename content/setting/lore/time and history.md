@@ -1,5 +1,8 @@
 ---
-type: overview
+title: time & history
+description: history
+tags: 
+ - lore
 ---
 ## timeline
 - late 3000s
@@ -30,4 +33,3 @@ the atomic earth time has been the standard since the 4000s
 ## see also
 - [[zones]]
 - [[moc corpos]]
-- [[REAC]]

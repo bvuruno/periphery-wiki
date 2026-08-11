@@ -1,17 +1,17 @@
 ---
 title: welcome to the periphery!
-description: intro
-tags:
+description: start here
+tags: 
+ - index
 ---
-hello my name is bruno and this is my [mothership](https://www.tuesdayknightgames.com/pages/mothership-rpg) campaign setting
-im still in the process of building it out, so look around, get inspired and have fun :)
+hello my name is bruno and this is my [mothership](https://www.tuesdayknightgames.com/pages/mothership-rpg) campaign setting *(im still in the process of building it out, so look around, get inspired and have fun :D)*
 for now its divided into 3 folders
 - **crew resources**
   a basic linkable intro for players, dos, donts, system introduction (start here)
 - **warden resources**
-  ready made material, warden references, points of interest, "modules"[^1]. players are advised not to look into this folder to not spoil the fun
+  ready made material, warden references, points of interest, "modules"[^1] (players are advised not to look into this folder to not spoil the fun)
 - **setting**
-  this is the place where all the "lore" is, think history, corpos, places
+  this is the place where all the "lore" is, think history, corpos, places (fun but not necessary to play or run)
 ## why?
 mothership is an "antilore" ttrpg, tuesday knight games made a system so versatile you can run any sci-fi campaign under it. i think this is great, it lets wardens make their setting as they go. this website is just **a recollection of my particular way of running mothership** so new wardens or experienced ones can **run a similar style game with less prep**
 ## what is a periphery-like campaign?
@@ -25,6 +25,10 @@ a periphery campaign is a west marches, players start in a big space station in 
    sessions are designed to be fast (2h) and easy for the warden to run
 ## tone and inspirations
 this setting is not that serious, it has the background of a decaying world where no one cares about the players, but there is fun to be had as your players face-off man-made horrors beyond our comprehension[^3]
+## see also
+- [[playing mothership primer]] (new players)
+- [[warden reference]] (new wardens)
+- [[the periphery field guide]] (quick "lore" recap)
 
 [^1]: small modules ive made and recommendations on how to run them better
 

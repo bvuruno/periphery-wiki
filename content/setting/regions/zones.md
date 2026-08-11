@@ -1,5 +1,8 @@
 ---
-type: overview
+title: zones
+description: zones and subzones
+tags: 
+ - regions
 ---
 ## old.orbit
 **pop.** ~21 billion total
@@ -11,12 +14,12 @@ a looser stretch of corporate controlled planets and operations. authority thins
 ## periphery
 **pop.** ~3 million
 **est.** ~6800s
-the frontier. extraction minicorps, struggling settlements and auxiliary charters map and explore for the good and riches of mankind. the peripherys connector pads are controlled by [[Periphery Corporate Oversight Commission|PCOC]] and divided into 6 subzones by their respective connector node, each node is too far away from each other to travel.
+the frontier. extraction minicorps, struggling settlements and auxiliary charters map and explore for the good and riches of mankind. the peripherys connector pads are controlled by [[PCOC|PCOC]] and divided into 6 subzones by their respective connector node, each node is too far away from each other to travel.
 ### CN1 meridians rest
 **pop.** ~850k
 **est.** 6982
 ### CN2 corvane landing
-**pop.** ~700
+**pop.** ~700k
 **est.** 7104
 ### CN3 greyharbour
 **pop.** ~200k

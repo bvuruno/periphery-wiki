@@ -15,7 +15,7 @@ a frankenstein merger of heavy industry and biotech, kovacs-oyabu operates with 
 ### tier 2
 - [[Eidoron Biotech]]
   the oyabu division hates their blatant patent stealing, the kovacs division sells them anything to piss-off oyabu
-- **[[Lumière Research Consortium]]** unconfirmed funding rumor
+- **[[Lumière Research Consortium]]**
   persistent rumor that the oyabu division quietly funds lumière's research.
 ## see also
 - [[moc corpos]]

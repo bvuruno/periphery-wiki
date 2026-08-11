@@ -1,9 +1,14 @@
 ---
-type: moc
+title: corps
+description: corps
+tags: 
+ - corps
+ - moc
 ---
 # map of content corporations
 ## tier 0 above the majors
 - [[k. holdings]]. arbitration for megacorps
+- [[PCOC]] pseudo-government for the periphery
 ## tier 1 diversified conglomerates (megacorps)
 1. manufacturing & heavy industry
 2. resource extraction & refinement
@@ -31,12 +36,12 @@ all the megacorps have these industries but each one has their own edge over eac
 | corp                              | sector                            | focus                                                                      | rivalry                                                                                                 | relationships                                                                           | capital (nick)                    | insp region                                    |
 | --------------------------------- | --------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------- |
 | [[UTA]]                           | transit & logistics               | monopoly in old.orbit lauch pads                                           | constant jurisdictional friction with [[Krupp-Zorn Logistik]]                                           | created by [[k. holdings]] as neutral pad infrastructure                                | lance station (the toll booth)    | port authority bureaucracy                     |
-| [[Krupp-Zorn Logistik]]           | transit & logistics               | monopoly in beltway-periphery launch pads, beltway transit                 | [[UTA]], over jurisdiction                                                                              |                                                                                         | vogelsang (the ruhr)              | germany (ruhr valley)                          |
+| [[Krupp-Zorn Logistik]]           | transit & logistics               | monopoly in beltway connector nodes, beltway transit                       | [[UTA]], over jurisdiction                                                                              |                                                                                         | vogelsang (the ruhr)              | germany (ruhr valley)                          |
 | [[Eidoron Biotech]]               | biotech                           | androids, custom organ cultivation                                         | [[Kovacs-Oyabu GmbH & Co. KG]] oyabu division over android technology                                   | [[Kovacs-Oyabu GmbH & Co. KG]] kovacs division, sells them patents                      | kessho (the dollhouse)            | japan (biopunk hobbyists, black tie companies) |
 | [[Pavel Medical]]                 | biotech                           | black market pharmaceuticals, pathogen containment                         |                                                                                                         |                                                                                         | studenka (the dacha)              | russia (post-soviet gray markets)              |
 | [[Ilium Habitat Solutions]]       | colonial dev, ships               | space stations, ships, habitat development                                 | [[TAIYANG HEAVY INDUSTRIES (太阳重工)]] beautiful vs. functional                                            |                                                                                         | new pittsburgh (the trailer park) | usa (rust belt)                                |
 | [[Virla Resource & Cultivation]]  | colonial dev                      | food production, terraforming, atmospheric engineering                     |                                                                                                         |                                                                                         |                                   | india (the birlas)                             |
-| [[Tlön Orbits]]                   | colonial dev, resource extraction | survey habitable planets, first settling programs, strip planet mining     |                                                                                                         | [[Somnus Labs]] pays for surveys                                                        | tallinn drift (the shell)         | estonia (digital nomad hustle)                 |
+| [[Tlön Orbits]]                   | colonial dev, resource extraction | survey habitable planets, first settling programs, strip planet mining     |                                                                                                         | [[Somnus Labs]] pays for surveys                                                        | tallinn drift (the shell)         | estonia (digital nomad)                        |
 | [[Castell'Arquato]]               | entertainment                     | news, narratives, sports leagues, sensory deprivation tourism              | [[CCK]] mostly theater at this point                                                                    |                                                                                         | arquato vecchia (the villa)       | italian (old media scandals)                   |
 | [[CCK]]                           | entertainment                     | news, narratives, dream recording & playback, unlicensed neural simulation | [[Castell'Arquato]], over prestige                                                                      |                                                                                         | redtop (the headline)             | uk/aus (murdochs, culture-war content farming) |
 | [[Lazarous Asset Management]]     | financial services                | resource futures, commodity speculation, colonial debt instruments         | [[Hazemeyer Credit]], philosophically                                                                   |                                                                                         | canary deep                       | city of london, wall street                    |
@@ -54,25 +59,19 @@ all the megacorps have these industries but each one has their own edge over eac
 | [[Lumière Research Consortium]]   | tech                              | technology research, memory extraction                                     | [[Antikythera Systems]], it is some friendly competition                                                | [[Kovacs-Oyabu GmbH & Co. KG]] unconfirmed funding rumor                                |                                   | french                                         |
 | [[EPICAC Cryptographic Services]] | tech - security                   | data brokerage, storage, encryption,   espionage                           | none                                                                                                    | [[Mithras Foundries Pty LLC]] prefered "cryptographic" vendor                           | keldervault                       | netherlands (amsterdam data havens)            |
 
-## tier 3 minicorps
-
+## tier 3 established firms
+depends on [[zones]]
 ## tier 4 auxiliary charters
-- *[[REAC]] reconnaissance and engineering auxiliary charter*
-- *[[SEAC]] structural evaluation & auxiliary containment
-- *[[HVAC]] hazard valuation & acquisition charter*
-- *[[PRAC]] protection, recovery, & security charter*
-- *[[DEAC]] deep encroachment & survey charter*
-- *[[MTAC]] medical triage & auxiliary care*
 
-| charter  | full name                                        | profile                                                              | rivalry                                           | relationships                                                                        | insp region          |
-| -------- | ------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------- |
-| [[DEAC]] | deep encroachment & survey charter               | buoy-laying and survey in unexplored/unstable space                  |                                                   |                                                                                      | norway/iceland       |
-| [[HVAC]] | hazard valuation & acquisition charter           | scavenging, jump-claiming, first-tag salvage rights                  | [[SEAC]]; [[REAC]], over who found a wreck first. |                                                                                      | uk/aus               |
-| [[MTAC]] | medical triage & auxiliary care                  | field trauma medicine, quarantine response, black-clinic supply runs |                                                   | standing partnership with [[Pavel Medical\|Pavel Medical, LLC]]                      | cuba/philippines     |
-| [[PRAC]] | protection, recovery, & security charter         | cut-rate mercenary escort for cheap shipping lanes                   |                                                   |                                                                                      | south africa/nigeria |
-| [[REAC]] | reconnaissance and engineering auxiliary charter | recon, engineering odd-jobs, general fixer work for extraction corps |                                                   | [[C. Malachi Industries\|C. Malachi Industries, Pty Ltd]] fixes reac's ships at cost |                      |
-| [[SEAC]] | structural evaluation & auxiliary containment    | deep-space demolition, hazmat/biochem containment, station-scrubbing | [[HVAC]], bitterly, over premature salvage.       |                                                                                      | usa                  |
+| charter  | full name                                        | profile                                                              | insp region          |
+| -------- | ------------------------------------------------ | -------------------------------------------------------------------- | -------------------- |
+| [[DEAC]] | deep encroachment & survey charter               | buoy-laying and survey in unexplored/unstable space                  | norway/iceland       |
+| [[HVAC]] | hazard valuation & acquisition charter           | scavenging, jump-claiming, first-tag salvage rights                  | uk/aus               |
+| [[MTAC]] | medical triage & auxiliary care                  | field trauma medicine, quarantine response, black-clinic supply runs | cuba/philippines     |
+| [[PRAC]] | protection, recovery, & security charter         | cut-rate mercenary escort for cheap shipping lanes                   | south africa/nigeria |
+| [[REAC]] | reconnaissance and engineering auxiliary charter | recon, engineering odd-jobs, general fixer work for extraction corps |                      |
+| [[SEAC]] | structural evaluation & auxiliary containment    | deep-space demolition, hazmat/biochem containment, station-scrubbing | usa                  |
 
 ## see also
-- [[setting overview]]
-- [[Periphery Corporate Oversight Commission]]
+- [[the periphery field guide]]
+- [[PCOC]]

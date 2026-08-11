@@ -10,7 +10,7 @@ pure vultures, and proud of it. the moment a distress beacon or a dead transpond
 ## fun fact
 hvac crews maintain an unofficial, constantly-updated leaderboard of fastest claim-tags in the sector. pure bragging rights, no prize, and people have died chasing the top spot anyway.
 ## rivalry
-[[SEAC]], over premature salvage; [[REAC]], over who "actually" found a wreck first when both show up on the same distress call.
+
 ## relationship
 
 ## see also

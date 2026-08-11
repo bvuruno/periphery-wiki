@@ -3,7 +3,7 @@ type: corporation
 tier: 1
 ---
 ## profile
-the newest of the megacorps, taiyang heavy industries burst onto the scene a millennia ago with a proprietary atmospheric seeding process that cut terraforming timelines by 40%. founded by a consortium of former colonial administrators and agritech visionaries, taiyang sells worlds, or at least the promise of them. they build domes, they crack ice, they turn dead rock into farmland. the old corps sneer at their optimism, their green branding, their insistence on "stakeholder ecology."
+the newest of the megacorps, taiyang heavy industries burst onto the scene a millennia ago with a proprietary atmospheric seeding process that cut terraforming timelines by 40%. founded by a consortium of former colonial administrators and agritech visionaries, taiyang sells worlds, or at least the promise of them. they build domes, they crack ice, they turn dead rock into farmland. the old corps sneer at their optimism, their green branding, their insistence on "stakeholder ecology".
 ## relationships
 - **[[Meridian Consolidated Holdings SE]]**
 - **[[Kovacs-Oyabu GmbH & Co. KG]]** 
@@ -15,7 +15,7 @@ the newest of the megacorps, taiyang heavy industries burst onto the scene a mil
 ### tier 2
 - **[[Ilium Habitat Solutions]]**
   market rivalry, taiyang sells the beautiful terraformed future, ilium sells the ugly functional now and colonists keep choosing ilium.
-- **[[Antikythera Systems]]** reverse-engineering contractor
+- **[[Antikythera Systems]]**
   frequently hired by taiyang to reverse-engineer competitors' terraforming tech, half legitimate, half open secret.
 ## see also
 - [[moc corpos]]

@@ -11,7 +11,7 @@ they operate lots of pads in the beltway and an exclusive monopoly in the beltwa
 the krupp and zorn founding lines haven't spoken directly in four generations, every internal decision routes through a mediator office that's quietly become its own department.
 ## rivalry
 - [[UTA]]
-  over jurisdiction
+  over beltway jurisdiction
 ## relationships
 
 ## see also

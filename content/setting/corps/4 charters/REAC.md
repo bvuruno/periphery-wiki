@@ -18,7 +18,7 @@ whoever stands in their way for a payout.
 - [[C. Malachi Industries]]
   repairs their ships at cost after a favour a kessler did for a malachi
 - [[Pavel Medical]]
-  their stimpack supplier
+  their medical supplier
 ## See also
 - [[moc corpos]]
 - [[REAC PCOC LICENSE]]

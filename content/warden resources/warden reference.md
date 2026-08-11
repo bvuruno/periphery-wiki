@@ -42,5 +42,3 @@
 - [[anomalies#t class|t class]] tech, unexplained inconsistencies and/or signal deterioration 
 - [[anomalies#p class|p class]] predators, hunts humans or livestock 
 - [[anomalies#c class|c class]] cognitive
-
-**report**

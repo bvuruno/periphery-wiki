@@ -10,7 +10,7 @@ the charter you join when you've got nothing left to lose, or you're chasing the
 ## fun fact
 deac keeps a memorial wall at every waypoint depot, names, systems mapped, cause of loss where known. new recruits are shown it before they're shown anything else.
 ## rivalry
-none, nobody else wants the work badly enough to compete for it.
+
 ## relationships
 
 ## see also
