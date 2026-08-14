@@ -1,6 +1,9 @@
 ---
-type: org
-tier: 0
+description: periphery regulatory body
+tags: 
+ - corp
+ - tier 0
+comments: true
 ---
 # Periphery Corporate Oversight Commission
 PCOC was built so the megacorps could know what was happening in the periphery. the megacorps *requested it* and [[k. holdings]] built out a data collection body first and a regulator second. every filing, inspection, and fine pcoc issues exists primarily to **generate a record**: who's operating where, what they're extracting, what they're finding, what's gone wrong.
@@ -14,5 +17,5 @@ the result is a regulator with almost no direct power and near-total effective c
 - **[[k. holdings]]** 
   founder and liaison.
 ## see also
-- [[moc corpos]]
+- [[corps]]
 - [[k. holdings]]

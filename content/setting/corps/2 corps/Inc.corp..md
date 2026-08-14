@@ -1,7 +1,10 @@
 ---
-type: corporation
-tier: 2
-sector: other
+description: HR
+tags: 
+ - corp
+ - tier 2
+ - other
+comments: true
 ---
 # Inc.corp.
 **focus:** labour & personnel (big hr)
@@ -9,10 +12,10 @@ sector: other
 staffs the frontier out to the corps and the auxiliary charters, exploitation with a smile, a recruiter's grin on every poster.
 ## fun fact
 their recruitment posters have been unchanged for two millennium. same font, same slogan, same unnervingly warm smile.
-## rivalry
-
 ## relationships
-- [[Hazemeyer Credit]]
+
+> [!sucess] [[Hazemeyer Credit]]
   indenture pipeline to field periphery jobs.
+
 ## see also
-- [[moc corpos]]
+- [[corps]]

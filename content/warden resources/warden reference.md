@@ -1,19 +1,27 @@
+---
+description: quick primer & faq
+tags: 
+ - meta
+ - handout
+comments: true
+---
+# setting
 ## zones
-| zone                           | population                 | profile                                                                                                       |
-| ------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [[zones#old.orbit\|old.orbit]] | ~21 billion                | megacorps headquartered here, politically entrenched, pushing expansion outward                               |
-| [[zones#beltway\|beltway]]     | ~4 billion                 | corps battle for control, usually in boardrooms, sometimes in battlefields                                    |
-| [[zones#periphery\|periphery]] | ~3 million                 | frontier divisions, independent operators, auxiliary charters exploring and extracting to feed the beltway    |
-| [[zones#dim\|dim]]             | a few thousand, maybe none | the bleeding edge, where periphery escapees or fools push deeper, sometimes by choice, usually by desperation |
+| zone                             | population                 | profile                                                                                                       |
+| -------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [[regions#old.orbit\|old.orbit]] | ~49 billion                | megacorps headquartered here, politically entrenched, pushing expansion outward                               |
+| [[regions#beltway\|beltway]]     | ~11 billion                | corps battle for control, usually in boardrooms, sometimes in battlefields                                    |
+| [[regions#periphery\|periphery]] | ~9 million                 | frontier divisions, independent operators, auxiliary charters exploring and extracting to feed the beltway    |
+| [[regions#dim\|dim]]             | a few thousand, maybe none | the bleeding edge, where periphery escapees or fools push deeper, sometimes by choice, usually by desperation |
 
-| n°    | connector node  | built    | population | profile                                                                                                                          |
-| ----- | --------------- | -------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | meridian's rest | 6982     | ~850k      | closest to the beltway border, very busy, enough traffic that it barely counts as frontier. it has the deepest push into the dim |
-| **2** | corvane landing | 7104     | ~700k      |                                                                                                                                  |
-| **3** | greyharbor      | 7346     | ~200k      | built fast and cheap after a mining rush that didn't pan out the way anyone hoped, half-abandoned now                            |
-| **4** | halyard reach   | 7578     | ~550k      |                                                                                                                                  |
-| **5** | tarpit junction | 7737     | ~400k      |                                                                                                                                  |
-| **6** | farside         | **8000** | ~250k      |                                                                                                                                  |
+| n°    | connector node   | subzone name    | built    | population | profile                                                                                                                                                   | insp. media                                     | insp. game      |
+| ----- | ---------------- | --------------- | -------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------- |
+| **1** | Kameiro City     | meridian's rest | 6982     | ~2.5m      | closest to the beltway border, very busy, enough traffic that it barely counts as frontier. it has the deepest push into the dim. noir, megacorp politics | bladerunner                                     |                 |
+| **2** | Ashcroft Port    | corvane landing | 7104     | ~2m        |                                                                                                                                                           | cyberpunk                                       | cy_borg         |
+| **3** | Appolyon Station | greyharbor      | 7346     | ~500k      | built fast and cheap after a mining rush that didn't pan out the way anyone hoped its half-abandoned now. cosmic horror, occult, "old ones"               | bloodbourne, annihilation, stalker              |                 |
+| **4** | Redwater Harbour | halyard reach   | 7578     | ~1.5m      | space western                                                                                                                                             | cowboy bebop                                    | orbital blues   |
+| **5** | La Punta         | tarpit junction | 7737     | ~1.2m      | the anomaly zone                                                                                                                                          | SCP foundation, backrooms, control, silent hill | triangle agency |
+| **6** | Westwick Point   | farside         | **8000** | ~650k      | exploring the frontier                                                                                                                                    |                                                 |                 |
 ## economy
 ### jobs
 
@@ -42,3 +50,4 @@
 - [[anomalies#t class|t class]] tech, unexplained inconsistencies and/or signal deterioration 
 - [[anomalies#p class|p class]] predators, hunts humans or livestock 
 - [[anomalies#c class|c class]] cognitive
+

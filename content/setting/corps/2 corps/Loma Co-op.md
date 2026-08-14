@@ -1,7 +1,10 @@
 ---
-type: corporation
-tier: 2
-sector: security, resource extraction
+description: detention facilities 
+tags: 
+ - corp
+ - tier 2
+ - security
+comments: true
 ---
 # Loma Co-op
 **focus:** detention facilities
@@ -9,9 +12,8 @@ sector: security, resource extraction
 a cooperative on paper. member-owned, mutual-aid bylaws, the works
 ## fun fact
 genuinely redistributes profit to its "members". the mutual-aid structure is real, it's just that the prisons and the patrols are also real, run by the same members.
-## rivalry
-
 ## relationships
 
+
 ## see also
-- [[moc corpos]]
+- [[corps]]

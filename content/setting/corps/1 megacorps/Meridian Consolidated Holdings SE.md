@@ -10,4 +10,4 @@ a titan of infrastructure and logistics, meridian built its empire on shipping l
 - **[[TAIYANG HEAVY INDUSTRIES (太阳重工)]]**
 - **[[Department 7, Ltd]]**
 ## see also
-- [[moc corpos]]
+- [[corps]]

@@ -1,7 +1,10 @@
 ---
-type: auxiliary charter
-tier: 4
-sector: colonial dev, security
+description: scavenging, jump-claiming, first-tag salvage rights
+tags: 
+ - corp
+ - tier 4
+ - resource extraction
+comments: true
 ---
 # REAC Reconnaissance and Engineering Auxiliary Charter
 **focus:** recon, engineering odd-jobs, general fixer work for extraction corps 
@@ -13,12 +16,12 @@ they have never had a year in the red since its founding
 ## rivalry
 whoever stands in their way for a payout.
 ## relationships
-- [[Hazemeyer Credit]]
-  they arranged a loan to reac to rebuild their fleet after their incident in node 4
-- [[C. Malachi Industries]]
+
+> [!sucess] [[C. Malachi Industries]]
   repairs their ships at cost after a favour a kessler did for a malachi
-- [[Pavel Medical]]
-  their medical supplier
+
+> [!warning] [[Hazemeyer Credit]]
+  they arranged a loan to reac to rebuild their fleet after their incident in node 4
 ## See also
-- [[moc corpos]]
+- [[corps]]
 - [[REAC PCOC LICENSE]]

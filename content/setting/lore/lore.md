@@ -1,5 +1,5 @@
 ---
-title: lore index
+title: lore
 description: index of the lore
 tags:
  - index
@@ -13,5 +13,5 @@ wip {short intro}
 5. society
 6. culture
 ## see also
-- [[zones]] 
-- [[moc corpos]]
+- [[regions]] 
+- [[corps]]

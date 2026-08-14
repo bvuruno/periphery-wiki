@@ -1,12 +1,15 @@
 ---
-type: corporation
-tier: 2
-sector: transit & logistics
+description: launch pad monopoly in the old.orbit
+tags: 
+ - corp
+ - tier 2
+ - transit & logistics
+comments: true
 ---
 # unified transit authority (uta)
 **focus:** transit & logistics
 ## profile
-monopoly on pads in the [[zones#old.orbit|old.orbit]] so the megacorps don't kill each other. proposed by [[k. holdings]].
+monopoly on pads in the [[regions#old.orbit|old.orbit]] so the megacorps don't kill each other. proposed by [[k. holdings]].
 ## fun fact
 its charter can't be amended without unanimous tier 1 sign-off, the one document all five majors have actually read in full.
 ## rivalry
@@ -16,4 +19,4 @@ its charter can't be amended without unanimous tier 1 sign-off, the one document
 tries to stay as neutral as possible
 - communication to the megacorps through [[k. holdings]]
 ## see also
-- [[moc corpos]]
+- [[corps]]

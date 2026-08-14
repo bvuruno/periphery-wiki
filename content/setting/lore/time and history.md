@@ -31,5 +31,5 @@ tags:
 the atomic earth time has been the standard since the 4000s
 12 months - 30 days each
 ## see also
-- [[zones]]
-- [[moc corpos]]
+- [[regions]]
+- [[corps]]

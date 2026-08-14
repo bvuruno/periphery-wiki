@@ -8,6 +8,7 @@ views:
       - file.name
       - type
       - tier
+      - tags
     sort:
       - property: tier
         direction: ASC

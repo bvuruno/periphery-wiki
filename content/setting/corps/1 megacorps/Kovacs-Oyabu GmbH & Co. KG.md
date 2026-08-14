@@ -12,10 +12,14 @@ a frankenstein merger of heavy industry and biotech, kovacs-oyabu operates with 
   the old guard sneers at taiyang's "stakeholder ecology" branding; taiyang, in turn, undercuts kovacs-oyabu on every terraforming contract with cheaper, greener pitches.
 - **[[Department 7, Ltd]]**
   department 7 has quietly acquired more than one bankrupt kovacs-oyabu subsidiary over the centuries, nobody at kovacs-oyabu likes to be reminded which ones.
+
 ### tier 2
-- [[Eidoron Biotech]]
-  the oyabu division hates their blatant patent stealing, the kovacs division sells them anything to piss-off oyabu
-- **[[Lumière Research Consortium]]**
+
+> [!warning] [[Eidoron Biotech]]
+> - the oyabu division hates their blatant patent stealing 
+> - the kovacs division sells them anything to piss-off oyabu
+
+ > [!question] **[[Lumière Research Consortium]]**
   persistent rumor that the oyabu division quietly funds lumière's research.
 ## see also
-- [[moc corpos]]
+- [[corps]]

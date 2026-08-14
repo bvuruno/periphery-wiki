@@ -12,8 +12,10 @@ specialists in salvage, reclamation, and "asset recovery", a euphemism for strip
   failed terraforming projects are some of mithras's best salvage contracts, but taiyang refuses to sell any failing colony to them.
 - **[[Department 7, Ltd]]**
   they both battle for who was the lowest latency in high-frequency trading
+
 ### tier 2
-- [[EPICAC Cryptographic Services]]
+
+>[!sucess] [[EPICAC Cryptographic Services]]
   mostly contracted to spy and break the other megacorps encryption
 ## see also
-- [[moc corpos]]
+- [[corps]]
