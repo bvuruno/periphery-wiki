@@ -1,1 +1,1 @@
-mothership rpg campaign setting
+osr sci-fi campaign setting
