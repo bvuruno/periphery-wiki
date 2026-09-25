@@ -6,7 +6,7 @@
       "installedVersion": "1.0.1",
       "installedRef": "v1.0.1",
       "installedAt": "2026-09-24T23:57:49.140Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/moc-nav/README.md",
         "src/plugins/moc-nav/garden-plugin.json",
