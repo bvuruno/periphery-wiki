@@ -2,10 +2,23 @@
   "version": 1,
   "plugins": {
     "dg-filetree": {
-      "enabled": true
+      "enabled": false
     },
     "dg-timestamps": {
       "enabled": false
+    },
+    "moc-nav": {
+      "repo": "oleeskild/garden-plugin-moc-nav",
+      "installedVersion": "1.0.1",
+      "installedRef": "v1.0.1",
+      "installedAt": "2026-09-25T00:53:52.414Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/moc-nav/README.md",
+        "src/plugins/moc-nav/garden-plugin.json",
+        "src/plugins/moc-nav/styles/moc-nav.scss",
+        "src/plugins/moc-nav/templates/moc-nav.njk"
+      ]
     }
   }
 }
