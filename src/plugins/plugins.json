@@ -18,7 +18,7 @@
       }
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "dg-timestamps": {
       "enabled": false
