@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "dg-timestamps": {
       "enabled": false
