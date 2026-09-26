@@ -4,7 +4,7 @@
 
 # 1 the periphery awaits
 ## [[the periphery/1 the periphery awaits/1.1 introduction\|1.1 introduction]]
-what? why? how?
+how do i run this?
 ## [[the periphery/1 the periphery awaits/1.2 from earth to the stars\|1.2 from earth to the stars]]
 short history of the periphery
 ## [[the periphery/1 the periphery awaits/1.3 places to be\|1.3 places to be]]
@@ -15,14 +15,12 @@ factions & conflict
 anomalies & horror
 ## [[the periphery/1 the periphery awaits/1.6 living in the frontier\|1.6 living in the frontier]]
 society & culture
-## [[the periphery/1 the periphery awaits/1.7 a charter life\|1.7 a charter life]]
-gm tips
 # 2 the corps
 ## 2.0 orgs
 ## 2.1 megacorps
 ## 2.2 mesos
 ## 2.3 micros
-## 2.4 auxiliary charters (ACs)
+## 2.4 auxiliary charters
 # 3 the zones
 ## 3.1 corvane landing
 ## 3.2 greyharbour
