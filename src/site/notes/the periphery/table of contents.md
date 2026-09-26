@@ -15,15 +15,15 @@ factions & conflict
 anomalies & horror
 ## [[the periphery/1 the periphery awaits/1.6 living in the frontier\|1.6 living in the frontier]]
 society & culture
-## [[the periphery/1 the periphery awaits/1.7 a charter life\|1.7 a charter life]] {GMs}
+## [[the periphery/1 the periphery awaits/1.7 a charter life\|1.7 a charter life]]
 gm tips
-# 2 the corps {GMs}
+# 2 the corps
 ## 2.0 orgs
 ## 2.1 megacorps
 ## 2.2 mesos
 ## 2.3 micros
 ## 2.4 auxiliary charters (ACs)
-# 3 the zones {GMs}
+# 3 the zones
 ## 3.1 corvane landing
 ## 3.2 greyharbour
 ## 3.3 halyard reach
