@@ -2,30 +2,29 @@
 {"dg-publish":true,"permalink":"/the-periphery/homepage/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-hello my name is bruno and **the Periphery** is a ttrpg sci-fi setting[^1] about exploring the dark bowels of the galaxy filled with uncharted riches, conspiring corps and anomalies better left undisturbed. 
+**the Periphery** is a ttrpg sci-fi setting[^1] about exploring an uncharted and mysterious sector of the galaxy filled with untold riches, conspiring corporations and dangerous anomalies. 
 
-it is written with the **intent of being read by the GM and run as a sandbox**. (i recommend) it can also be stripped and mined for the modules or hacked mechanics.
+the tone of the setting is **half tragedy, half comedy**. the world is hostile and will treat the players as disposable cannon fodder, at the same time it will also reward them for getting back up and trying again.
 
-the **tone is half tragedy, half comedy**. the world will treat the players as disposable cannon fodder, at the same time it will also reward them for getting back up and trying again.
-
-- each zone of the periphery has a distinct tone and ecosystem
-- players have the freedom to choose what they do 
-- players get rewarded for engaging with the world
-
-**for players**
+***for players***
 - explore the periphery
 - catalogue uncanny and occult anomalies
-- discover resources that will sure make you rich
 - garner reputation among your peers and corporate patrons
-- punch above your weight and show the corps who reigns over the periphery
+- punch above your weight and show the corps who reigns over the **Periphery**
 
-**for game masters**
+***for game masters***
 - easy to run sessions
 - fast sessions (~2h)
 - ever expanding tools and resources to pick up and play
-## work in progress
-whenever you see a task list or a {WIP}, it means the section is not finished.
-things are subject to change, thank you for your understanding.
+
+***this website***
+is written with the **intent of being read by the GM**, but the first part *1 the periphery awaits* has no spoilers if you're a curious player.
+
+***work in progress***
+whenever you see a {WIP}, it means the section is not finished. things are subject to change, thank you for your understanding.
+
+***about me***
+hello, my name is bruno and you can find me in [itch](https://bvurunoo.itch.io/) 
 # see also
 - [[the periphery/table of contents\|table of contents]]
 

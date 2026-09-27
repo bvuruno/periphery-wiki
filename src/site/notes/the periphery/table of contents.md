@@ -26,7 +26,7 @@ society & culture
 ## 3.2 greyharbour
 ## 3.3 halyard reach
 ## 3.4 tarpit junction
-## [[the periphery/3 the zones/3.5 farside/3.5 farside\|3.5 farside]]
+## [[the periphery/3 the zones/3.5 farside\|3.5 farside]]
 ### CN5 westwick point
 
 # appendix
