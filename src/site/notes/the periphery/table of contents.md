@@ -16,18 +16,16 @@ anomalies & horror
 ## [[the periphery/1 the periphery awaits/1.6 living in the frontier\|1.6 living in the frontier]]
 society & culture
 # 2 the corps
-## 2.0 orgs
-## 2.1 megacorps
-## 2.2 mesos
-## 2.3 micros
-## 2.4 auxiliary charters
+## [[the periphery/2 the corps/2.0 regulatory bodies\|2.0 regulatory bodies]]
+## [[the periphery/2 the corps/2.1 diversified conglomerates\|2.1 diversified conglomerates]]
+## [[2.2 market leaders\|2.2 market leaders]]
+## [[2.3 established firms\|2.3 established firms]]
+## [[2.4 auxiliary charters\|2.4 auxiliary charters]]
 # 3 the zones
 ## 3.1 corvane landing
 ## 3.2 greyharbour
 ## 3.3 halyard reach
 ## 3.4 tarpit junction
-## [[the periphery/3 the zones/3.5 farside\|3.5 farside]]
-### CN5 westwick point
-
+## [[the periphery/3 the zones/3.5 farside/3.5 farside\|3.5 farside]]
 # appendix
 ## [[the periphery/A. glosarry\|A. glosarry]]
