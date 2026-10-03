@@ -14,11 +14,11 @@ the tone of the setting is **half tragedy, half comedy**. the world is hostile a
 
 ***for game masters***
 - easy to run sessions
-- fast sessions (~2h)
+- fast sessions (~2-3h)
 - ever expanding tools and resources to pick up and play
 
 ***this website***
-is written with the **intent of being read by the GM**, but part *1 the periphery awaits* has no spoilers if you're a curious player.
+is written with the **intent of being read by the GM**, in the future i'll write a quick player-facing primer for players.
 
 ***work in progress***
 whenever you see a {WIP}, it means the section is not finished. things are subject to change, thank you for your understanding.
